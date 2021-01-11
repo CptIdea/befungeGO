@@ -1,5 +1,7 @@
 # befungeGO
-Golang befunge interpritator
+Golang befunge interpritator&editor
+
+**Require tcell for editor**
 
 
 # Flags
